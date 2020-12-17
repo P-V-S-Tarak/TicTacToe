@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe2</string>
+    <string name="reset">RESET</string>
+    <string name="after_each_game_the_players_switch_sides_x_and_0">*After each game the players switch sides (X and 0).</string>
+</resources>
